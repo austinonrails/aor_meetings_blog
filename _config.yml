@@ -1,0 +1,24 @@
+# Site settings
+title: Austin On Rails
+email: info@austinonrails.org
+description: > # this means to ignore newlines until "baseurl:"
+  Austin On Rails is the original Ruby on Rails user group in
+  Austin, Texas. We meet on 4th Tuesdays at Capital Factory.
+  Founded before Rails went 1.0.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://austinonrails.org" # the base hostname & protocol for your site
+twitter_username: austinonrails
+github_username:  austinonrails
+
+tag_dir: "/past/tags"
+
+permalink: /:year/:month/:day/:title.html
+
+# Build settings
+markdown: kramdown
+gems: [kramdown]
+assets:
+  compress:
+    css:  sass
+    js:   uglifier
+exclude: ['vendor', 'config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
