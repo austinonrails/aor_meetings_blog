@@ -30,8 +30,8 @@ Wynn Netherland is Founder and Pixel Pusher at Squeejee, a Texas-based web devel
 
 ### Last Month's Goodies
 
-- Authlogic & Auth Helpers by Allen Walker ( [slides](http://austinonrails.org/files/authlogic_and_auth_helpers.pdf)) ( [audio](http://austinonrails.org/files/allen-walker-authlogic-20090922.mp3))
-- Sinatra Extensions & [Heroku](http://heroku.com/) Deployment by Blake Mizerany ( [audio](http://austinonrails.org/files/blake-mizerany-sinatra-extensions-20090922.mp3))\* _Video is still being processed._
+- Authlogic & Auth Helpers by Allen Walker ( [slides](https://github.com/austinonrails/Meetings/blob/master/2009/authlogic_and_auth_helpers.pdf)) ( [audio](https://github.com/austinonrails/Meetings/blob/master/2009/allen-walker-authlogic-20090922.mp3))
+- Sinatra Extensions & [Heroku](http://heroku.com/) Deployment by Blake Mizerany ( [audio](https://github.com/austinonrails/Meetings/blob/master/2009/blake-mizerany-sinatra-extensions-20090922.mp3))\* _Video is still being processed._
 
 ### Volunteering
 

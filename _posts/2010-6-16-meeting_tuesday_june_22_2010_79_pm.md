@@ -20,12 +20,12 @@ We'd also like to ask anyone else who was at Railsconf or followed the proceedin
 
 ### Debugging Ruby with ruby-debug
 
-Nola Stowe ( [@rubygeekdotcom](http://twitter.com/rubygeekdotcom/)) has been programming since she was 13 and found the basic programming book for her TRS-80. She’s a self proclaimed language geek with Ruby being her favorite. She moved from Chicago and currently works for Trion Worlds, the premier publisher and developer of connected video games in North Austin (they are hiring!). After spending some time in the Java world and coming back to ruby, one thing Nola missed was the debugger and being able to step through her code. ruby-debug is a handy tool to debug your app without putting puts statements everywhere. She will show the basics in a short presentation.
+Nola Stowe ( [@rubygeekdotcom](http://twitter.com/rubygeek/)) has been programming since she was 13 and found the basic programming book for her TRS-80. She’s a self proclaimed language geek with Ruby being her favorite. She moved from Chicago and currently works for Trion Worlds, the premier publisher and developer of connected video games in North Austin (they are hiring!). After spending some time in the Java world and coming back to ruby, one thing Nola missed was the debugger and being able to step through her code. ruby-debug is a handy tool to debug your app without putting puts statements everywhere. She will show the basics in a short presentation.
 
 ### Audio from the May Meeting
 
-- Rob Mack & John Critz - Rails 3 Overview / From Merb to Rails 3 [[audio](/files/rob-mack-and-john-critz-rails3-gowalla.mp3)]
-- Skip Baney - Deploying Rails 3 to Dreamhost [[audio](/files/skip-baney-rails3-on-dreamhost.mp3)]
+- Rob Mack & John Critz - Rails 3 Overview / From Merb to Rails 3 [[audio](https://github.com/austinonrails/Meetings/blob/master/2010/rob-mack-and-john-critz-rails3-gowalla.mp3)]
+- Skip Baney - Deploying Rails 3 to Dreamhost [[audio](https://github.com/austinonrails/Meetings/blob/master/2010/skip-baney-rails3-on-dreamhost.mp3)]
 
 ### Volunteer for Austin on Rails!
 

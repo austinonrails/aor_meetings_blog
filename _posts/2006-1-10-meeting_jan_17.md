@@ -4,7 +4,7 @@ title: Meeting - Jan. 17
 tags: []
 date: '2006-1-10'
 ---
-Twenty-six of us attended the [December meeting](/articles/2006/02/13/meeting-dec-13-at-7pm). After learning about Migrations and Ajax we went next door to Hickory Street and stayed til closing time. This month, we’re at the same place, but in a much bigger room!
+Twenty-six of us attended the [December meeting](/2006/02/13/meeting-dec-13-at-7pm). After learning about Migrations and Ajax we went next door to Hickory Street and stayed til closing time. This month, we’re at the same place, but in a much bigger room!
 
 ### Presentations
 
@@ -22,7 +22,7 @@ Ruby is radically object-oriented, sophisticated, and flexible. After covering t
 
 So you’re developing your first web application on Rails, and you’re running into all sorts of problems. Whiny nils, missing methods, and unsaved assocations; what’s a developer to do? Rick will show you how to not only debug the problems you will face, but learn what the framework is doing under the covers.
 
-[Download Presentation [ZIP]](/files/Technoweenie-AustinOnRails.zip)
+[Download Presentation [ZIP]](https://github.com/austinonrails/Meetings/blob/master/2006/2006-01-DebuggingRails.zip)
 
 **Speaker Info**
 

@@ -20,14 +20,14 @@ Mattt Thompson ( [@mattt](http://twitter.com/mattt)) is a hacker and iPad develo
 
 ### Amy Unruh - JRuby and Rails on Google App Engine
 
-In the first part of this talk we will take a look at JRuby itself, some of the benefits of using it, how to access Java classes from JRuby, and how to run a Rails app using JRuby. We will then introduce Google App Engine/Java and some of its key features and limitations. Then we’ll look at what’s required to get Rails 2 (and Sinatra) apps running on App Engine via JRuby, including the use of DataMapper with the App Engine Datastore, and how to access the App Engine Services from your code.
+In the first part of this talk we wil	l take a look at JRuby itself, some of the benefits of using it, how to access Java classes from JRuby, and how to run a Rails app using JRuby. We will then introduce Google App Engine/Java and some of its key features and limitations. Then we’ll look at what’s required to get Rails 2 (and Sinatra) apps running on App Engine via JRuby, including the use of DataMapper with the App Engine Datastore, and how to access the App Engine Services from your code.
 
 Amy Unruh ( [@amygdala](http://twitter.com/amygdala)) is currently co-authoring a technical book, and does technical training and course development, with a focus on web technologies. Previously, she was a Research Fellow at the University of Melbourne, where she taught a web technologies course and investigated building robust agent systems by utilizing principles of transaction management. Prior to that, she has worked in several startups and R&D labs, and served as adjunct faculty at the University of Texas.
 
 ### Audio from the June Meeting
 
-- [Keith Gaddis](http://karmajunkie.com/) - Railsconf 2010 Recap [[audio](/files/Keith-Gaddis-RailsConf-2010.mp3)]
-- [Nola Stowe](http://www.rubygeek.com/) - Ruby-debug [[audio](/files/Nola-Stowe-Ruby-Debug.mp3)]
+- [Keith Gaddis](http://karmajunkie.com/) - Railsconf 2010 Recap [[audio](https://github.com/austinonrails/Meetings/blob/master/2010/Keith-Gaddis-RailsConf-2010.mp3)]
+- [Nola Stowe](http://www.rubygeek.com/) - Ruby-debug [[audio](https://github.com/austinonrails/Meetings/blob/master/2010/Nola-Stowe-Ruby-Debug.mp3)]
 
 ### Volunteers Needed!
 

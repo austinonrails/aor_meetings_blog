@@ -26,9 +26,9 @@ If you work with the web and you’re in the downtown area on the 25th, please c
  
  
 ### Mike Perham
-  [Mike Perham at Austin on Rails on 10/28/08 (mp3)](/files/Mike_Perham_AOR_10-28-2008.mp3) 
+  [Mike Perham at Austin on Rails on 10/28/08 (mp3)](https://github.com/austinonrails/Meetings/blob/master/2008/Mike_Perham_AOR_10-28-2008.mp3) 
 ### Open Mic
-  [Open Mic at Austin on Rails on 10/28/08 (mp3)](/files/Open_Mic_AOR_10-28-2008.mp3) 
+  [Open Mic at Austin on Rails on 10/28/08 (mp3)](https://github.com/austinonrails/Meetings/blob/master/2008/Open_Mic_AOR_10-28-2008.mp3) 
 
 Our thanks to Mark Young for recording the presentations.
 

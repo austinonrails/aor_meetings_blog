@@ -28,14 +28,14 @@ Flip started infochimps.org (a website to find any dataset in the world), and is
 
 Using Cucumber with Rails by Nicholas Cancelliere
 
-- [Slides](http://austinonrails.org/files/austin-on-rails_cukes.pdf)
-- [Audio](http://austinonrails.org/files/nicholas-cucumber-rails.mp3)
+- [Slides](https://github.com/austinonrails/Meetings/blob/master/2009/austin-on-rails_cukes.pdf)
+- [Audio](https://github.com/austinonrails/Meetings/blob/master/2009/nicholas-cucumber-rails.mp3)
 
 RailsConf 2009 Recap
 
 - [RailsConf Videos](http://railsconf.blip.tv/)
 - [RailsConf Slides](http://en.oreilly.com/rails2009/public/schedule/proceedings)
-- [Audio](http://austinonrails.org/files/railsconf-2009-recap.mp3)
+- [Audio](https://github.com/austinonrails/Meetings/blob/master/2009/railsconf-2009-recap.mp3)
 
 ### Rails Connections
 

@@ -17,8 +17,8 @@ Ever wish you could go back in time and tell yourself what to do and not to do? 
 
 ### Last Month's Goodies
 
-- MongoDB by Wynn Netherland ( [slides](http://wynnnetherland.com/2009/10/slides-hands-on-with-ruby-and-mongodb/) ) | ( [audio](http://austinonrails.org/files/wynn-netherland-mongodb-20091027.mp3) )
-- MacRuby by Sam Griffith ( ( [slides](http://austinonrails.org/files/MacRuby_talk_to_Austin_on_Rails_10-27-2009.pdf) ) | ( [audio](http://austinonrails.org/files/sam-griffith-jr-macruby-20091027.mp3) )
+- MongoDB by Wynn Netherland ( [slides](http://wynnnetherland.com/2009/10/slides-hands-on-with-ruby-and-mongodb/) ) | ( [audio](https://github.com/austinonrails/Meetings/blob/master/2009/wynn-netherland-mongodb-20091027.mp3) )
+- MacRuby by Sam Griffith ( ( [slides](https://github.com/austinonrails/Meetings/blob/master/2009/MacRuby_talk_to_Austin_on_Rails_10-27-2009.pdf) ) | ( [audio](https://github.com/austinonrails/Meetings/blob/master/2009/sam-griffith-jr-macruby-20091027.mp3) )
 
 ### Volunteering
 
