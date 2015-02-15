@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Newsletter
-permalink: /newsletter/
+title: Mailing Lists
+permalink: /mailing_lists/
 ---
 Want to get emails from Austin On Rails? We can make that happen.
 
