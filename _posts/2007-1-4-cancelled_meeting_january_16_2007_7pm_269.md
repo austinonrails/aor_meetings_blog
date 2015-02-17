@@ -10,7 +10,7 @@ Where: [Frog Design](http://frogdesign.com/) at 8th and Congress Ave. (Beverages
 
 When: January 16, 2007 @ 7PM
 
-_ [When: January 23, 2007 @ 7PM](http://www.austinonrails.org/articles/2007/01/15/meeting-january-23-2007-7pm)_
+_ [When: January 23, 2007 @ 7PM](http://www.austinonrails.org/2007/01/15/meeting-january-23-2007-7pm)_
 
 Austin's own (not for long) Tony Perrie would like to introduce us to Xaggly, a new C-based XML Parser for Ruby that he has written. In unbiased benchmarking tests against [REXML](http://www.germane-software.com/software/rexml/) and [Hpricot](http://code.whytheluckystiff.net/hpricot/), it appears to [run quite speedily](http://involution.com/images/xmlshootout.png).
 

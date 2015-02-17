@@ -30,7 +30,7 @@ Damon takes a walk through the 1.0 release candidate and highlights some of the 
  
  
 
-[Slides[PDF]](https://github.com/austinonrails/Meetings/blob/master/2005/2005-11-Rails1.0.pdf)
+[Slides[PDF]](https://github.com/austinonrails/Meetings/raw/master/2005/2005-11-Rails1.0.pdf)
 
 **Speaker Info**
 

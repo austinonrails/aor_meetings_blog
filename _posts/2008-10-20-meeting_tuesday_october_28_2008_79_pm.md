@@ -37,11 +37,11 @@ I've been quite remiss with my posting of some very valuable links from last mon
 Here we go:
 
 ### Otherinbox Overview
- [OtherInbox Slide Deck](https://github.com/austinonrails/Meetings/blob/master/2008/OtherInbox_Demo_AustinOnRails.pdf) [TechCrunch 50 pitch (video)](http://bit.ly/josh-tc50) [Josh Baer at Austin on Rails on 9/23/08 (mp3)](https://github.com/austinonrails/Meetings/blob/master/2008/otherinbox_aor_9-23-08.mp3)
+ [OtherInbox Slide Deck](https://github.com/austinonrails/Meetings/raw/master/2008/OtherInbox_Demo_AustinOnRails.pdf) [TechCrunch 50 pitch (video)](http://bit.ly/josh-tc50) [Josh Baer at Austin on Rails on 9/23/08 (mp3)](https://github.com/austinonrails/Meetings/raw/master/2008/otherinbox_aor_9-23-08.mp3)
 ### Building an App With Facebooker
- [Jake Varghese at Austin on Rails on 9/23/08 (mp3)](https://github.com/austinonrails/Meetings/blob/master/2008/facebooker_aor_9-23-08.mp3)
+ [Jake Varghese at Austin on Rails on 9/23/08 (mp3)](https://github.com/austinonrails/Meetings/raw/master/2008/facebooker_aor_9-23-08.mp3)
 ### XMPP in Ruby
- [XMPP in Ruby code on Github](http://github.com/bdainton/xmpp_talk/tree/master) [XMPP in Ruby Slide Deck](http://www.slideshare.net/bdainton/a-change-in-protocol-exploring-xmpp-in-ruby-presentation#) [Brian Dainton at Austin on Rails on 9/23/08 (mp3)](https://github.com/austinonrails/Meetings/blob/master/2008/rubyxmpp_aor_9-23-08.mp3)
+ [XMPP in Ruby code on Github](http://github.com/bdainton/xmpp_talk/tree/master) [XMPP in Ruby Slide Deck](http://www.slideshare.net/bdainton/a-change-in-protocol-exploring-xmpp-in-ruby-presentation#) [Brian Dainton at Austin on Rails on 9/23/08 (mp3)](https://github.com/austinonrails/Meetings/raw/master/2008/rubyxmpp_aor_9-23-08.mp3)
 
 Our thanks to Mark Young for recording the presentations.
 

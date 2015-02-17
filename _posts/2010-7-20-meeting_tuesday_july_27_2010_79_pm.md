@@ -26,8 +26,8 @@ Amy Unruh ( [@amygdala](http://twitter.com/amygdala)) is currently co-authoring 
 
 ### Audio from the June Meeting
 
-- [Keith Gaddis](http://karmajunkie.com/) - Railsconf 2010 Recap [[audio](https://github.com/austinonrails/Meetings/blob/master/2010/Keith-Gaddis-RailsConf-2010.mp3)]
-- [Nola Stowe](http://www.rubygeek.com/) - Ruby-debug [[audio](https://github.com/austinonrails/Meetings/blob/master/2010/Nola-Stowe-Ruby-Debug.mp3)]
+- [Keith Gaddis](http://karmajunkie.com/) - Railsconf 2010 Recap [[audio](https://github.com/austinonrails/Meetings/raw/master/2010/Keith-Gaddis-RailsConf-2010.mp3)]
+- [Nola Stowe](http://www.rubygeek.com/) - Ruby-debug [[audio](https://github.com/austinonrails/Meetings/raw/master/2010/Nola-Stowe-Ruby-Debug.mp3)]
 
 ### Volunteers Needed!
 

@@ -22,7 +22,7 @@ Ruby is radically object-oriented, sophisticated, and flexible. After covering t
 
 So you’re developing your first web application on Rails, and you’re running into all sorts of problems. Whiny nils, missing methods, and unsaved assocations; what’s a developer to do? Rick will show you how to not only debug the problems you will face, but learn what the framework is doing under the covers.
 
-[Download Presentation [ZIP]](https://github.com/austinonrails/Meetings/blob/master/2006/2006-01-DebuggingRails.zip)
+[Download Presentation [ZIP]](https://github.com/austinonrails/Meetings/raw/master/2006/2006-01-DebuggingRails.zip)
 
 **Speaker Info**
 

@@ -24,8 +24,8 @@ Nola Stowe ( [@rubygeekdotcom](http://twitter.com/rubygeek/)) has been programmi
 
 ### Audio from the May Meeting
 
-- Rob Mack & John Critz - Rails 3 Overview / From Merb to Rails 3 [[audio](https://github.com/austinonrails/Meetings/blob/master/2010/rob-mack-and-john-critz-rails3-gowalla.mp3)]
-- Skip Baney - Deploying Rails 3 to Dreamhost [[audio](https://github.com/austinonrails/Meetings/blob/master/2010/skip-baney-rails3-on-dreamhost.mp3)]
+- Rob Mack & John Critz - Rails 3 Overview / From Merb to Rails 3 [[audio](https://github.com/austinonrails/Meetings/raw/master/2010/rob-mack-and-john-critz-rails3-gowalla.mp3)]
+- Skip Baney - Deploying Rails 3 to Dreamhost [[audio](https://github.com/austinonrails/Meetings/raw/master/2010/skip-baney-rails3-on-dreamhost.mp3)]
 
 ### Volunteer for Austin on Rails!
 

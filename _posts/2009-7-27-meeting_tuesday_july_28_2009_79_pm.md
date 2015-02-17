@@ -14,7 +14,7 @@ We’ll also be hearing from Ross Andrews about his recent play with the [Dhaka 
 June Meeting Nuggets
 
 - [Cucumber and Git - slides](http://www.slideshare.net/techpeace/how-i-roll-a-cucumbergit-workflow)
-- [Cucumber and Git Workflow - audio](https://github.com/austinonrails/Meetings/blob/master/2009/How_I_Roll_A_Cucumber_git_Workflow.mp3)
+- [Cucumber and Git Workflow - audio](https://github.com/austinonrails/Meetings/raw/master/2009/How_I_Roll_A_Cucumber_git_Workflow.mp3)
 - [Wukong and Hadoop - audio](Processing_Large_Datasets_with_Ruby_and_Hadoop.mp3)
 
 ### Rails Connections

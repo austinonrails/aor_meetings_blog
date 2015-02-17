@@ -28,13 +28,13 @@ Rob Mack has been working with Rails professionally on and off since 2005.  Rob
 Caching, Memcached And Rails by Mike Perham
 
 - [Slides](http://www.slideshare.net/guestac752c/caching-memcached-and-rails)
-- [Audio](https://github.com/austinonrails/Meetings/blob/master/2009/aor-2009-03-24-mike-rails-perf.mp3) 
+- [Audio](https://github.com/austinonrails/Meetings/raw/master/2009/aor-2009-03-24-mike-rails-perf.mp3) 
 - [Wrapup](http://www.mikeperham.com/2009/03/25/caching-and-rails/)
 
 Building TweetReach with Sinatra, Tokyo Cabinet and Grackle by Hayes Davis
 
 - [Slides](http://www.slideshare.net/hayesdavis/building-tweetreach-with-sinatra-tokyo-cabinet-and-grackle-austin-on-rails-20090324)
-- [Audio](https://github.com/austinonrails/Meetings/blob/master/2009/aor-2009-03-24-hayes-tokyo.mp3) 
+- [Audio](https://github.com/austinonrails/Meetings/raw/master/2009/aor-2009-03-24-hayes-tokyo.mp3) 
 - [Wrapup](http://hayesdavis.net/2009/03/25/austin-on-rails-talk-building-tweetreach-with-sinatra-tokyo-cabinet-and-grackle/)
 
 ### Rails Connections
