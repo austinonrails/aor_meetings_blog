@@ -14,7 +14,7 @@ Want to sponser one of our meetings? Reach out on [Twitter](https://twitter.com/
 ## Why Sponsor?
 
 * Show you support the Austin Ruby on Rails community
-* Talk to a room full of Austin Rails developers about your company, products, technical talent, culture, etc.
+* Talk to a room full of Austin Rails developers for 2-4 minutes about your company
 * We'll also thank you publicly on Twitter
 
 ## More Questions?
