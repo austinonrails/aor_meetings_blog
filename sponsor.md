@@ -4,9 +4,19 @@ title: Sponsor
 permalink: /sponsor/
 ---
 
-Want to sponser one of our meetings? Here are the details:
+Want to sponser one of our meetings? Reach out on [Twitter](https://twitter.com/austinonrails)!
 
-* how much it costs
-* who to talk to
-* past sponsors
-* talk about your company to a roomful of 50+ rails developers
+## Details
+
+* Two sponsorship options per month: Food and Socialization
+* Each is roughly $400
+
+## Why Sponsor?
+
+* Show you support the Austin Ruby on Rails community
+* Talk to a room full of Austin Rails developers for 2-4 minutes about your company
+* We'll also thank you publicly on Twitter
+
+## More Questions?
+
+Reach out on [Twitter](https://twitter.com/austinonrails)!
