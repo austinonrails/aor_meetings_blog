@@ -1,6 +1,6 @@
 # Site settings
 title: Austin On Rails
-email: info@austinonrails.org
+email:
 description: > # this means to ignore newlines until "baseurl:"
   Austin On Rails is the original Ruby on Rails user group in
   Austin, Texas. We meet on 4th Tuesdays at Capital Factory.
