@@ -10,15 +10,14 @@ Lightning Talks are short talks about topics relevant to the community. Anyone c
 Section 1 (7-8PM)
 
 1. "Simplify your operations with orchestra", Nathan Ladd, [@realntl](http://www.twitter.com/realntl)
-1. "Learn you some React.js", Tim Tyrrell, [@timtyrrell](http://www.twitter.com/timtyrrell)
-1. "One Weird Trick To Become A Better Developer", Nickolas Means, [@nmeans](http://www.twitter.com/nmeans)
+1. "React.js Real Quick (Pun Intended)", Tim Tyrrell, [@timtyrrell](http://www.twitter.com/timtyrrell)
 1. "The Best of Both Worlds: JSON in Postgres 9.4", Chad Bailey, [@chadbailey59](http://www.twitter.com/chadbailey59)
 1. "What I Learned Putting In Wood Floors and How It Applies to Development", [@randito](http://www.twitter.com/randito)
+1. "Firing the Asset Pipeline for your Single-Page App", Brandon Hays, [@tehviking](http://www.twitter.com/tehviking)
+1. "3 learning techniques to stay up-to-date with web technologies", Alejo Rivera, [@alejoriveralara](http://www.twitter.com/alejoriveralara)
 
 Section 2 (8-9PM)
 
-1. "Firing the Asset Pipeline for your Single-Page App", Brandon Hays, [@tehviking](http://www.twitter.com/tehviking)
-1. "3 learning techniques to stay up-to-date with web technologies", Alejo Rivera, [@alejoriveralara](http://www.twitter.com/alejoriveralara)
 1. "Pry: greatest hits", Patrick Mahoney, [@patricknmahoney](http://www.twitter.com/patricknmahoney)
 1. "Something about Clojure", Nick McDonnough, [@nickmcdonnough](http://www.twitter.com/nickmcdonnough)
 1. "Jekyll and Mr Blog", Nola Stowe, [@rubygeek](http://www.twitter.com/rubygeek)
