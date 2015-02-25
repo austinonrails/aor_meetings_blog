@@ -4,7 +4,7 @@ title: Sponsor
 permalink: /sponsor/
 ---
 
-Want to sponser one of our meetings? Reach out on [Twitter](https://twitter.com/austinonrails)!
+Want to sponsor one of our meetings? Reach out on [Twitter](https://twitter.com/austinonrails)!
 
 ## Details
 
