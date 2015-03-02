@@ -12,4 +12,4 @@ Creates a post ready for editing:
 
 Create a new page by creating a new md file, example mailing_list.md, set the title and permalink
 
-Push to github, it will automatically generate the static pages.
+Push to heroku, it will automatically generate the static pages.
