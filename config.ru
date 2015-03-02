@@ -1,4 +1,9 @@
 require 'rack/contrib/try_static'
+require 'rack/rewrite'
+
+use Rack::Rewrite do
+  rewrite   %r{/past/(.*)}, '/$1' 
+end
 
 use Rack::TryStatic,
       :root => "_site",
@@ -8,3 +13,4 @@ use Rack::TryStatic,
 run lambda { |env|
     return [404, {'Content-Type' => 'text/html'}, ['Not Found']]
 }
+
