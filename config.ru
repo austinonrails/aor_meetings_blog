@@ -2,7 +2,7 @@ require 'rack/contrib/try_static'
 require 'rack/rewrite'
 
 use Rack::Rewrite do
-  rewrite   %r{/past/(.*)}, '/$1' 
+  rewrite   %r{/past/(.*)}, '/$1.html' 
 end
 
 use Rack::TryStatic,
