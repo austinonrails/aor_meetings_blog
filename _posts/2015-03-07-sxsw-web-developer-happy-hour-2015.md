@@ -13,6 +13,8 @@ It's party time! Excellent! (air guitar)
 
 You're invited to the once a year extravaganza that is the...SXSW Web Developer Happy Hour!
 
+### The Details
+
 [Buffalo Billiards](http://buffalobilliardsaustin.com/)
 
 [201 East 6th Street](https://www.google.com/maps/place/Buffalo+Billiards/@30.267462,-97.741223,17z/data=!4m6!1m3!3m2!1s0x8644b5a77f2bb92b:0xcd55080a3c977b11!2sBuffalo+Billiards!3m1!1s0x8644b5a77f2bb92b:0xcd55080a3c977b11)
@@ -22,6 +24,8 @@ Monday, March 16, 2015
 6-9PM
 
 Ticket required: [https://austinonrails.ticketbud.com/sxsw-2015](https://austinonrails.ticketbud.com/sxsw-2015) (developer discount code available)
+
+### Description
 
 Please join us on the Monday of SXSW for good conversation, appetizers, and a night out without the laptop.  Buffalo Billiards has tons of games, such as darts, billiards, and shuffleboard. 
 
