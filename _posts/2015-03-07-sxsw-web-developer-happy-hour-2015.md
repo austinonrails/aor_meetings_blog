@@ -13,7 +13,7 @@ It's party time! Excellent! (air guitar)
 
 You're invited to the once a year extravaganza that is the...SXSW Web Developer Happy Hour!
 
-### The Details
+## THE DETAILS
 
 [Buffalo Billiards](http://buffalobilliardsaustin.com/)
 
@@ -25,7 +25,7 @@ Monday, March 16, 2015
 
 Ticket required: [https://austinonrails.ticketbud.com/sxsw-2015](https://austinonrails.ticketbud.com/sxsw-2015) (developer discount code available)
 
-### Description
+## DESCRIPTION
 
 Please join us on the Monday of SXSW for good conversation, appetizers, and a night out without the laptop.  Buffalo Billiards has tons of games, such as darts, billiards, and shuffleboard. 
 
