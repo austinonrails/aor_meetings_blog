@@ -25,7 +25,9 @@ Tickets: [https://austinonrails.ticketbud.com/sxsw-2015](https://austinonrails.t
 
 Please join us on the Monday of SXSW for good conversation, appetizers, and a night out without the laptop.  Buffalo Billiards has tons of games, such as darts, billiards, and shuffleboard. 
 
-We invited bonafide web geek and designer [Alex Baldwin](http://alexbaldwin.com) to DJ our event. Check out last year's set:
+We invited bonafide web geek and designer [Alex Baldwin](http://alexbaldwin.com) to DJ our event. 
+
+Click the robot to check out last year's set:
 
 <a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/139618238&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" target="_blank"><img src="/files/alex-robot-300.jpg" 
 alt="alex baldwin dj set" border="10" /></a>
@@ -45,10 +47,13 @@ We could not put on this event without the gracious help of our awesome sponsors
 
 _Our platform empowers developers, IT/Ops, and business leaders to transform their business using real-time data directly from production software._
 
-MakerSquare
-Keep Ruby Weird
+![](/files/makersquare.png) [New Relic](http://makersquare.com) - @[makersquare](https://twitter.com/makersquare)
 
 
--
+
+![](/files/ruby_weird.png) [New Relic](http://keeprubyweird.com) - @[keeprubyweird](https://twitter.com/keeprubyweird)
+
+
+---
 
 Thanks also to our community sponsors: [Ticketbud](http://ticketbud.com), [Capital Factory](http://capitalfactory.com), [Thoughtbot](http://thoughtbot.com), [Harvest](http://getharvest.com), and [Microsoft](http://microsoft.com/startups).
