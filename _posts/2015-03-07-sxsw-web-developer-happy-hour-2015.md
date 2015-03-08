@@ -36,26 +36,28 @@ It's easily the best party for the HTTP crowd.
 
 Web developers of all stripes are welcome (backend, frontend...you name it)!  Please not that the venue is 21+.
 
-Looking forward to seeing you there!
-
 Ticketbud is handmade right here in Austin, Texas!
 
 We could not put on this event without the gracious help of our awesome sponsors. Please take a moment to thank them on Twitter.
 
 ## SPONSORS 
-[New Relic](<img src="/files/newrelic.png"/> http://newrelic.com)
+<a href="http://newrelic.com/"><img src="/files/newrelic.png"/></a>
 
 [@newrelic](https://twitter.com/newrelic)
 
 _Our platform empowers developers, IT/Ops, and business leaders to transform their business using real-time data directly from production software._
 
-![](/files/makersquare.png) [MakerSquare](http://makersquare.com)
+<a href="http://makersquare.com"><img src="/files/makersquare.png"/></a>
 
 [@makersquare](https://twitter.com/makersquare)
 
-![](/files/ruby_weird.png) [Keep Ruby Weird](http://keeprubyweird.com)
+_text_
+
+<a href="http://keeprubyweird.com"><img src="/files/ruby_weird.png"/></a>
 
 [@keeprubyweird](https://twitter.com/keeprubyweird)
+
+_text_
 
 ---
 
