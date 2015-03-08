@@ -34,7 +34,7 @@ alt="alex baldwin dj set" border="10" /></a>
 
 It's easily the best party for the HTTP crowd.  
 
-Web developers of all stripes are welcome (backend, frontend...you name it)!  Please not that the venue is 21+.
+Web developers of all stripes are welcome (backend, frontend...you name it)!  Please note that the venue is 21+.
 
 Ticketbud is handmade right here in Austin, Texas!
 
@@ -47,13 +47,13 @@ We could not put on this event without the gracious help of our awesome sponsors
 
 _Our platform empowers developers, IT/Ops, and business leaders to transform their business using real-time data directly from production software._
 
-<a href="http://makersquare.com"><img src="/files/makersquare.png" width="500" /></a>
+<a href="http://makersquare.com"><img src="/files/makersquare.png" width="450" /></a>
 
 [@makersquare](https://twitter.com/makersquare)
 
 _MakerSquare is a selective 3 month full-time career accelerator for software engineering. By teaching computer science fundamentals and modern web technologies, MakerSquare prepares students to join the workforce as modern software engineers._
 
-<a href="http://keeprubyweird.com"><img src="/files/ruby_weird.png" height="200"/></a>
+<a href="http://keeprubyweird.com"><img src="/files/ruby_weird.png" height="250"/></a>
 
 [@keeprubyweird](https://twitter.com/keeprubyweird)
 
