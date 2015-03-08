@@ -7,11 +7,11 @@ tag:
 - Web Developers
 date: '2015-3-7'
 ---
+# SXSW WEB DEVELOPER HAPPY HOUR!
+
 It's party time! Excellent! (air guitar)
 
 You're invited to the once a year extravaganza that is the... 
-
-# SXSW WEB DEVELOPER HAPPY HOUR!
 
 [Buffalo Billiards](http://buffalobilliardsaustin.com/)
 
