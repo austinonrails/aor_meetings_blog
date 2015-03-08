@@ -41,19 +41,19 @@ Ticketbud is handmade right here in Austin, Texas!
 We could not put on this event without the gracious help of our awesome sponsors. Please take a moment to thank them on Twitter.
 
 ## SPONSORS 
-<a href="http://newrelic.com/"><img src="/files/newrelic.png"/></a>
+<a href="http://newrelic.com/"><img src="/files/newrelic.png" width="350" /></a>
 
 [@newrelic](https://twitter.com/newrelic)
 
 _Our platform empowers developers, IT/Ops, and business leaders to transform their business using real-time data directly from production software._
 
-<a href="http://makersquare.com"><img src="/files/makersquare.png"/></a>
+<a href="http://makersquare.com"><img src="/files/makersquare.png" width="350" /></a>
 
 [@makersquare](https://twitter.com/makersquare)
 
 _MakerSquare is a selective 3 month full-time career accelerator for software engineering. By teaching computer science fundamentals and modern web technologies, MakerSquare prepares students to join the workforce as modern software engineers._
 
-<a href="http://keeprubyweird.com"><img src="/files/ruby_weird.png"/></a>
+<a href="http://keeprubyweird.com"><img src="/files/ruby_weird.png" width="350"/></a>
 
 [@keeprubyweird](https://twitter.com/keeprubyweird)
 
