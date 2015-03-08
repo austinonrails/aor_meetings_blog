@@ -51,13 +51,13 @@ _Our platform empowers developers, IT/Ops, and business leaders to transform the
 
 [@makersquare](https://twitter.com/makersquare)
 
-_text_
+_MakerSquare is a selective 3 month full-time career accelerator for software engineering. By teaching computer science fundamentals and modern web technologies, MakerSquare prepares students to join the workforce as modern software engineers._
 
 <a href="http://keeprubyweird.com"><img src="/files/ruby_weird.png"/></a>
 
 [@keeprubyweird](https://twitter.com/keeprubyweird)
 
-_text_
+_Keep Ruby Weird is a annual conference that works to highlight all the weird that Austin has to offer while educating folks on the beauty of Ruby._
 
 ---
 
