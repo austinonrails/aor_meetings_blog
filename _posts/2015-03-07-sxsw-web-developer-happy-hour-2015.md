@@ -11,7 +11,7 @@ date: '2015-3-7'
 
 It's party time! Excellent! (air guitar)
 
-You're invited to the once a year extravaganza that is the... 
+You're invited to the once a year extravaganza that is the...SXSW Web Developer Happy Hour!
 
 [Buffalo Billiards](http://buffalobilliardsaustin.com/)
 
@@ -43,7 +43,7 @@ Ticketbud is handmade right here in Austin, Texas!
 We could not put on this event without the gracious help of our awesome sponsors. Please take a moment to thank them on Twitter.
 
 ## SPONSORS 
-![](/files/newrelic.png) [New Relic](http://newrelic.com)
+[New Relic](<img src="/files/newrelic.png"/> http://newrelic.com)
 
 [@newrelic](https://twitter.com/newrelic)
 
