@@ -43,16 +43,19 @@ Ticketbud is handmade right here in Austin, Texas!
 We could not put on this event without the gracious help of our awesome sponsors. Please take a moment to thank them on Twitter.
 
 ## SPONSORS 
-![](/files/newrelic.png) [New Relic](http://newrelic.com) - @[newrelic](https://twitter.com/newrelic)
+![](/files/newrelic.png) [New Relic](http://newrelic.com)
+
+[@newrelic](https://twitter.com/newrelic)
 
 _Our platform empowers developers, IT/Ops, and business leaders to transform their business using real-time data directly from production software._
 
-![](/files/makersquare.png) [New Relic](http://makersquare.com) - @[makersquare](https://twitter.com/makersquare)
+![](/files/makersquare.png) [MakerSquare](http://makersquare.com)
 
+[@makersquare](https://twitter.com/makersquare)
 
+![](/files/ruby_weird.png) [Keep Ruby Weird](http://keeprubyweird.com)
 
-![](/files/ruby_weird.png) [New Relic](http://keeprubyweird.com) - @[keeprubyweird](https://twitter.com/keeprubyweird)
-
+[@keeprubyweird](https://twitter.com/keeprubyweird)
 
 ---
 
