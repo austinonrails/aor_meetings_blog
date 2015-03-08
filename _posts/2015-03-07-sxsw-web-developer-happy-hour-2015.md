@@ -21,7 +21,7 @@ Monday, March 16, 2015
 
 6-9PM
 
-Tickets: [https://austinonrails.ticketbud.com/sxsw-2015](https://austinonrails.ticketbud.com/sxsw-2015) (developer discount code available)
+Ticket required: [https://austinonrails.ticketbud.com/sxsw-2015](https://austinonrails.ticketbud.com/sxsw-2015) (developer discount code available)
 
 Please join us on the Monday of SXSW for good conversation, appetizers, and a night out without the laptop.  Buffalo Billiards has tons of games, such as darts, billiards, and shuffleboard. 
 
