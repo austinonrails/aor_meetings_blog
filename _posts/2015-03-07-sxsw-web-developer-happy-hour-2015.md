@@ -47,5 +47,3 @@ Keep Ruby Weird
 -
 
 Thanks also to our community sponsors: [Ticketbud](http://ticketbud.com), [Capital Factory](http://capitalfactory.com), [Thoughtbot](http://thoughtbot.com), [Harvest](http://getharvest.com), and [Microsoft](http://microsoft.com/startups).
-
-## Active Record Associations - Anthony Lewis
