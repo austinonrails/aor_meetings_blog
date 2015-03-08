@@ -26,7 +26,9 @@ Tickets: [https://austinonrails.ticketbud.com/sxsw-2015](https://austinonrails.t
 Please join us on the Monday of SXSW for good conversation, appetizers, and a night out without the laptop.  Buffalo Billiards has tons of games, such as darts, billiards, and shuffleboard. 
 
 We invited bonafide web geek and designer [Alex Baldwin](http://alexbaldwin.com) to DJ our event. Check out last year's set:
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/83115937&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+<a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/83115937&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true" target="_blank"><img src="/files/alex-robot-300.jpg" 
+alt="alex baldwin dj set" width="240" height="180" border="10" /></a>
 
 It's easily the best party for the HTTP crowd.  
 
