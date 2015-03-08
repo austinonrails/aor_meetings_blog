@@ -9,36 +9,35 @@ date: '2015-3-7'
 ---
 It's party time! Excellent! (air guitar)
 
-Hop on your hoverboard and join us for the first meeting of the year. Your Rails conductor this month is Matt Swain.
-
-Buffalo Billiards
-201 East 6th Street, Austin, TX 78701, USA
-Monday, March 16, 2015
-6-9PM
-
-https://austinonrails.ticketbud.com/sxsw-2015
-
 You're invited to the once a year extravaganza that is the... 
 
 # SXSW WEB DEVELOPER HAPPY HOUR!
 
+[Buffalo Billiards](http://buffalobilliardsaustin.com/)
+[201 East 6th Street](https://www.google.com/maps/place/Buffalo+Billiards/@30.267462,-97.741223,17z/data=!4m6!1m3!3m2!1s0x8644b5a77f2bb92b:0xcd55080a3c977b11!2sBuffalo+Billiards!3m1!1s0x8644b5a77f2bb92b:0xcd55080a3c977b11)
+Monday, March 16, 2015
+6-9PM
+Tickets: [https://austinonrails.ticketbud.com/sxsw-2015](https://austinonrails.ticketbud.com/sxsw-2015) (developer discount code available)
+
 Please join us on the Monday of SXSW for good conversation, appetizers, and a night out without the laptop.  Buffalo Billiards has tons of games, such as darts, billiards, and shuffleboard. 
 
-We invited bonafide web geek and designer [Alex Baldwin](http://alexbaldwin.com) to DJ our event.
+We invited bonafide web geek and designer [Alex Baldwin](http://alexbaldwin.com) to DJ our event. Check out last year's set:
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/83115937&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
-It's easily the best party for the HTTP set.  
+It's easily the best party for the HTTP crowd.  
 
-Web developers of all stripes are welcome!  The venue is 21+.
+Web developers of all stripes are welcome (backend, frontend...you name it)!  Please not that the venue is 21+.
 
 Looking forward to seeing you there!
 
 Ticketbud is handmade right here in Austin, Texas!
 
-We could not put on this event without the gracious help of our awesome sponsors.
+We could not put on this event without the gracious help of our awesome sponsors. Please take a moment to thank them on Twitter.
 
 ## SPONSORS 
-![](/files/newrelic.png) [New Relic](http://newrelic.com)
-Our platform empowers developers, IT/Ops, and business leaders to transform their business using real-time data directly from production software.
+![](/files/newrelic.png) [New Relic](http://newrelic.com) - @[newrelic](https://twitter.com/newrelic)
+
+_Our platform empowers developers, IT/Ops, and business leaders to transform their business using real-time data directly from production software._
 
 MakerSquare
 Keep Ruby Weird
