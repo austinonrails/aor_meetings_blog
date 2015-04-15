@@ -12,7 +12,7 @@ Rails Friends!
 
 Please join us for the April Edition of Austin on Rails. Your Rails conductor this month is Damon Clinkscales.
 
-## Using React.js with Rails - Shah 
+## Using React.js with Rails - Shahriar Sikder 
 
 Shah will be talking about React, a new JavaScript library from Facebook, and how you can use it with Rails. React.js is a library for building user interfaces, and allows you to take care of the view layer in your Rails app in a more elegant way. We will be going through some slides as well as some live coding, so bring your laptops!
 
