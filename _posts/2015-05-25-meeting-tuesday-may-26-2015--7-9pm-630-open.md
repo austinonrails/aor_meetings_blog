@@ -27,7 +27,7 @@ in 2006, and stumbled into hosting search for a living back in 2010.
 Easily searching across an application’s data is a pervasive need. If you are
 lucky, you can get away with simple sorting or searching on a single column, but
 it is more likely that you need full text search across multiple models, all
-from a single search <input>.
+from a single search `<input>`.
 
 Thanks to the power of Postgres’ full text search, rolling your own search isn't
 too difficult.
