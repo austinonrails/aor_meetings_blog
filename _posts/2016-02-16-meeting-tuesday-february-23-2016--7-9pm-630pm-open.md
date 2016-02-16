@@ -13,7 +13,7 @@ Lightning Talks are short talks about topics relevant to the community. Anyone c
 1. Holly Gibson, Topic TBD, [@hollyglot](https://twitter.com/hollyglot)
 2. Caleb Thompson, Hacker's Diet, [@calebthompson](https://twitter.com/calebthompson)
 3. Jesse Kipp, Topic TBD
-4. Nathaniel Jones, Topic TBD, [@thenthj](https://twitter.com/thenthj)
+4. Nathaniel Jones, Rails-ey services with CloudFront and Middleman, [@thenthj](https://twitter.com/thenthj)
 5. Max Holzheu, Vim tricks, [@maxholzheu](https://twitter.com/maxholzheu)
 6. Scott Hudson, RTFM, [@swhudson](https://twitter.com/swhudson)
 
