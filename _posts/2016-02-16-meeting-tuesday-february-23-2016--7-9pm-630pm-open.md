@@ -26,4 +26,6 @@ Lightning Talks are short talks about topics relevant to the community. Anyone c
 5. Scott Hamilton, Breaking the monolith with RabbitMq and JSONAPI, [@greeneggs614](https://twitter.com/greeneggs614)
 6. Alexander Clark, Building with Rack
 
+
 This meeting is sure to be a blast!
+
