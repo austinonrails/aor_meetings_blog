@@ -26,3 +26,6 @@ Lightning Talks are short talks about topics relevant to the community. Anyone c
 5. Scott Hamilton, Breaking the monolith with RabbitMq and JSONAPI, [@greeneggs614](https://twitter.com/greeneggs614)
 6. Alexander Clark, Building with Rack, [@atheclark](https://twitter.com/atheclark)
 
+Also, don’t forget to RSVP to our Austin on Rails Web Developer SXSW Happy Hour today! Invite your web geek friends who will be in town to come hang out with us, have a few drinks, play some games, and chat web technology.
+
+[Austin on Rails Web Developer SXSW Happy Hour](https://austinonrails.ticketbud.com/sxsw-web-developer-happy-hour-2016-d34639587df6)
