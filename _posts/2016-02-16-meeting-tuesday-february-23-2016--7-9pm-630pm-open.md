@@ -19,12 +19,15 @@ Lightning Talks are short talks about topics relevant to the community. Anyone c
 
 ## Section 2 (8-9PM)
 
+1. Brandon Harris, TBD, [@bbwharris](https://twitter.com/bbwharris)
 1. Matt Buck, Adding a voice interface to a Rails app, [@techpeace](https://twitter.com/techpeace)
 1. Nathan Ladd - Linearization basics: modeling state as an ordered sequence of transitions, [@realntl](https://twitter.com/realntl)
 1. Matt Swain, Docker on Rails - An operational dream and nightmare, [@mswain](https://twitter.com/mswain)
 1. Scott Hamilton, Breaking the monolith with RabbitMq and JSONAPI, [@greeneggs614](https://twitter.com/greeneggs614)
 1. Alexander Clark, Building with Rack, [@atheclark](https://twitter.com/atheclark)
 
+
 Also, don’t forget to RSVP to our Austin on Rails Web Developer SXSW Happy Hour today! Invite your web geek friends who will be in town to come hang out with us, have a few drinks, play some games, and chat web technology.
 
 [Austin on Rails Web Developer SXSW Happy Hour](https://austinonrails.ticketbud.com/sxsw-web-developer-happy-hour-2016-d34639587df6)
+
