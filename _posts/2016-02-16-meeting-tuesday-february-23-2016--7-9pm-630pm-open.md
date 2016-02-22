@@ -11,20 +11,19 @@ Lightning Talks are short talks about topics relevant to the community. Anyone c
 ## Section 1 (7-8PM)
 
 1. Holly Gibson, Functional Programming in Ruby Using Lambda, [@hollyglot](https://twitter.com/hollyglot)
-2. Caleb Thompson, Hacker's Diet, [@calebthompson](https://twitter.com/calebthompson)
-3. Jesse Kipp, Topic TBD
-4. Nathaniel Jones, Rails-ey services with CloudFront and Middleman, [@thenthj](https://twitter.com/thenthj)
-5. Max Holzheu, Vim tricks, [@maxholzheu](https://twitter.com/maxholzheu)
-6. Scott Hudson, RTFM, [@swhudson](https://twitter.com/swhudson)
+1. Caleb Thompson, Hacker's Diet, [@calebthompson](https://twitter.com/calebthompson)
+1. Jesse Kipp, Topic TBD
+1. Nathaniel Jones, Rails-ey services with CloudFront and Middleman, [@thenthj](https://twitter.com/thenthj)
+1. Max Holzheu, Vim tricks, [@maxholzheu](https://twitter.com/maxholzheu)
+1. Scott Hudson, RTFM, [@swhudson](https://twitter.com/swhudson)
 
 ## Section 2 (8-9PM)
 
-1. Joshua Flanagan, JWT, [@jflanagan](https://twitter.com/jflanagan)
-2. Matt Buck, Adding a voice interface to a Rails app, [@techpeace](https://twitter.com/techpeace)
-3. Nathan Ladd - Linearization basics: modeling state as an ordered sequence of transitions, [@realntl](https://twitter.com/realntl)
-4. Matt Swain, Docker on Rails - An operational dream and nightmare, [@mswain](https://twitter.com/mswain)
-5. Scott Hamilton, Breaking the monolith with RabbitMq and JSONAPI, [@greeneggs614](https://twitter.com/greeneggs614)
-6. Alexander Clark, Building with Rack, [@atheclark](https://twitter.com/atheclark)
+1. Matt Buck, Adding a voice interface to a Rails app, [@techpeace](https://twitter.com/techpeace)
+1. Nathan Ladd - Linearization basics: modeling state as an ordered sequence of transitions, [@realntl](https://twitter.com/realntl)
+1. Matt Swain, Docker on Rails - An operational dream and nightmare, [@mswain](https://twitter.com/mswain)
+1. Scott Hamilton, Breaking the monolith with RabbitMq and JSONAPI, [@greeneggs614](https://twitter.com/greeneggs614)
+1. Alexander Clark, Building with Rack, [@atheclark](https://twitter.com/atheclark)
 
 Also, don’t forget to RSVP to our Austin on Rails Web Developer SXSW Happy Hour today! Invite your web geek friends who will be in town to come hang out with us, have a few drinks, play some games, and chat web technology.
 
