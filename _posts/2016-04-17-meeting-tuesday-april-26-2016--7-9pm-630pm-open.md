@@ -5,9 +5,7 @@ tags: []
 ---
 After a break for SXSW and the Web Developer Happy Hour, we're back!
 
-##Section 1 (7PM - 8PM)
-
-It's All About Dem Bots
+##It's All About Dem Bots — Tim Scott
 
 Did you notice that everyone's talking about bots all of the sudden? Tech Crunch recently proclaimed that "Bots Are The New Apps." Facebook just announced at F8 that bots are are coming to Facebook Messenger. Bot stores are popping up everywhere. Some say that bots will even supplant search.
 
@@ -17,9 +15,7 @@ Let's create a simple Slackbot in Ruby. It's easy with the slack-ruby-bot gem. W
 
 Tim Scott is full stack developer, freelancer and sometime entrepreneur.
 
-##Section 2 (8PM - 9PM)
-
-The Original Skunk Works (preview of RailsConf talk)
+##The Original Skunk Works (preview of RailsConf talk) — Nickolas Means
 
 Long before Agile and Lean became buzzwords, a scrappy group of aerospace engineers at Lockheed's Skunk Works were using similar practices to produce some of the most amazing aircraft ever built. The famous U-2 spy plane, the SR-71 Blackbird, and the F-117A Stealth Fighter are among the incredible planes the engineers at Skunk Works produced under impossibly tight deadlines and very limited budgets.
 
