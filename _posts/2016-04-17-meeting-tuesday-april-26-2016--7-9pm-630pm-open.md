@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting: Tuesday, February 23, 2016 @ 7 9PM [6:30PM Open]"
+title: "Meeting: Tuesday, April 26, 2016 @ 7 9PM [6:30PM Open]"
 tags: []
 ---
 After a break for SXSW and the Web Developer Happy Hour, we're back!
