@@ -22,6 +22,6 @@ Even if you're planning to hang out with Rails 4 for the time being, ActionCable
 [Nathaniel Jones](https://twitter.com/thenthj) is a developer at Scout RFP.
 
 ---
-HUGE thanks to our pizza sponsor for this month, [Condé Nast](http://creativity.condenast.com/)!
+HUGE thanks to our pizza sponsor for this month, [Condé Nast](http://creativity.condenast.com/), and our socialization practice sponsor [One More Cloud](https://omc.io/)!
 
-Want to sponsor Austin on Rails? Get in touch [@AustinOnRails](https://twitter.com/austinonrails)! 
+Want to sponsor Austin on Rails? Get in touch [@AustinOnRails](https://twitter.com/austinonrails)!
