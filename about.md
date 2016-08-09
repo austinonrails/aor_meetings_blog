@@ -14,7 +14,7 @@ Austin On Rails is the original [Ruby on Rails](http://rubyonrails.org/) user gr
 * Where: Downtown Austin, [Capital Factory](http://capitalfactory.com/) (the 16th floor of the Omni)
 
 ## More Information
-* [Schedule](https://github.com/austinonrails/members/wiki/2015-Meetings)
+* [Schedule](https://github.com/austinonrails/members/wiki/2016-Meetings)
 * [Google Calendar](http://www.google.com/calendar/embed?src=8cshfr43jabb15q5ehs23pd5lk%40group.calendar.google.com&ctz=America/Chicago)
 * [Wiki](https://github.com/austinonrails/members/wiki/_pages)
 * [Companies Using Rails in Austin](https://github.com/austinonrails/members/wiki/Which-Companies-Are-Using-Rails-In-Austin%3F)
