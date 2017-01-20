@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meeting Tuesday January 24 2017 7 9pm (doors @ 630pm open)"
+title: "Meeting Tuesday January 24 2017 7 9pm (doors @ 630pm)"
 tags: []
 ---
 
