@@ -10,7 +10,7 @@ JSON Web Tokens (JWTs) have become quite a bit more popular as of late.  But why
 
 Jeff began his programming career as a hobo riding the rails. One day his train broke down in the hamlet of Bowling Green, KY. As it was being repaired, Jeff went out into the village and learned from the locals of a thing called "Ruby" and something else called "Rails". Since Jeff knew all about riding the rails, he figured this was right up his alley. Thirteen years of development and six years of Ruby and Rails later, he's still going strong and now only has to hop a train for fun.
 
-## Use Rails to Quantify Yourself
+## Use Rails to Quantify Yourself - Gal Tsubery
 
 You know how to optimize code, You benchmark to set a baseline, refactor and then benchmark again. You know that any production app requires monitoring and alerting tools. The same proven principles can be applied to your personal life. Two years ago I built a Rails app that provides metrics about various problem areas I found in my life. From procrastination to fitness and education, pretty much anything can become a metric. In this talk I want to show few of the challenges when dealing with idiosyncrasies of seven different 3rd party APIs and my lessons about unexpected complexity. If you got curious enough to try it out at home, I’ll go over the simple plugin architecture and show how easy it is to add your own metrics to the app.
 
