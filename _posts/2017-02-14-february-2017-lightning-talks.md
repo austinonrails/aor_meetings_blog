@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "February 2017: Lightning Talks"
+title: "February 28th, 2017: Lightning Talks"
 ---
 
 February is lightning talk month!
