@@ -12,14 +12,13 @@ layout: default
         </h2>
 
         <h3>{{ post.event-time }}</h3>
-		
+
 		{{ post.content }}
       </li>
     {% endfor %}
   </ul>
 
-
-
+  <a class="page-link" href="/past">Archives</a>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
