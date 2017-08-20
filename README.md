@@ -12,4 +12,4 @@ Creates a post ready for editing:
 
 Create a new page by creating a new md file, example mailing_list.md, set the title and permalink
 
-Push to heroku, it will automatically generate the static pages.
+Heroku app is: `pure-headland-5946`. Automatic deploys are enabled, push to master to deploy.
