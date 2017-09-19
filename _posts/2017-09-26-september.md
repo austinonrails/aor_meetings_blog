@@ -4,21 +4,20 @@ title: "Meeting Tuesday September 26th 2017 7pm - 9pm (doors open @ 630pm)"
 tags: []
 ---
 
-## State Machines in Ruby
+## Workflow Wonders: Tracking Status History with State Machine Gems
 
-To be anounced
-
-Speaker:
-
-**To be anounced**
-
-
-## Progressive Web Apps in Rails
-
-A case-study talk on how we made DayTrip, an app that helps you leave your house on the weekends, into a minimum viable Progressive Web App with an offline service worker.
+A basic look at the Workflow gem and how it can be used to keep a history of field values on your Rails models.
 
 Speaker:
 
-**Dave Rupert**
+**Amanda Chang**
+Amanda is a full-stack developer at RigUp, a software platform for the oil & gas industry. She's a proud graduate of the Flatiron School in New York and a supporter of coding bootcamps. Outside of work, you'll find her playing ultimate frisbee or doing improv at the Hideout Theatre. But she would never bring comedy into her technical talk. Ruby is serious business, y'all.
 
-Dave Rupert is lead developer at Paravel, a three-person agency based in Austin, TX. He co-hosts Shop Talk Show, a weekly web design and development podcast with Chris Coyier of CSS-Tricks. He plays banjo and is an eSports enthusiast. He lives behind Central Market at the 290/71/360 Bermuda Triangle in South Austin.
+## Crossing the Streams - Benefits & Myths Of Event Sourcing
+
+For the last few decades, the predominant approach to web application state persistence has been relational databases. Alternatives have emerged, but they have mostly focused on representing application state on disk in its present form. A powerful alternative has been emerging for some time, often called "event sourcing," which flips relational databases inside out. we'll cover the basics of event sourcing using code examples in ruby. We'll also introduce some powerful, non-obvious benefits as well as dispel some common myths that have emerged about event sourcing.
+
+Speaker:
+
+**Nathan Ladd**
+Nathan has been writing software professionally for over 10 years, specializing in architecture, systems engineering, and domain-driven design. His languages include Ruby, C, and Javascript, and has recently worked extensively with service oriented architecture and event sourcing in Ruby. Nathan is also a contributor to the Eventide project.
